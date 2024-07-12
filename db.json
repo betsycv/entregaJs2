@@ -1,0 +1,18 @@
+{
+  "clientes": [
+    {
+      "id": "ed54",
+      "nombre": "betsy",
+      "email": "betsy@jaja.com",
+      "telefono": "3323852565",
+      "empresa": "la empresona"
+    },
+    {
+      "nombre": "Betsy2",
+      "email": "betsy.@gmail.com",
+      "telefono": "65656565656",
+      "empresa": "jjjoop",
+      "id": "96c4"
+    }
+  ]
+}
